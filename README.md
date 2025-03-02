@@ -30,9 +30,6 @@ I'm a **Senior Frontend Engineer** with a passion for crafting seamless, user-fr
 
 ---
 
-## 🔍 Fun Fact
-I once migrated a massive PHP Symfony app to Ruby on Rails and React/Redux—talk about a wild ride! When I’m not coding, I’m probably tweaking my dev setup or dreaming up the next big UI idea.
-
 ## GitHub Stats
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=isaniomoraes&layout=compact)
 
